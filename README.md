@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Eze Arinze 👋
 
-<!--
-**EzeArinze/EzeArinze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer building modern products, developer tools, and scalable web experiences.
 
-Here are some ideas to get you started:
+Currently building:
+- Social media scheduling platform
+- Developer tooling experiments
+- UI-focused applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+React • Next.js • TypeScript • Node.js • TailwindCSS • TanStack • PostgreSQL
+
+## Connect
+- Portfolio — https://eze-arinze.vercel.app
+- LinkedIn — http://www.linkedin.com/in/eze-arinze-arz
+- Mail - ezearinze2244@gmail.com
