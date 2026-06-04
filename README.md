@@ -1,4 +1,4 @@
-# Hey, I'm Eze Arinze 👋
+# Hey, I'm Eze Arinze
 
 Frontend Engineer building modern products, developer tools, and scalable web experiences.
 
