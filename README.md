@@ -2,11 +2,6 @@
 
 Frontend Engineer building modern products, developer tools, and scalable web experiences.
 
-Currently building:
-- Social media scheduling platform
-- Developer tooling experiments
-- UI-focused applications
-
 ## Stack
 
 React • Next.js • TypeScript • Node.js • TailwindCSS • TanStack • PostgreSQL
